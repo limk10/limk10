@@ -6,7 +6,7 @@
 ## ✨&nbsp;&nbsp;Sobre
 
 - 🎓&nbsp;&nbsp;Graduado em Analise e Desenvolvimento de Sistemas pela UNIC em 2016, iniciei minha carreira no desenvolvimento a 6 anos e nesse periodo já passei por algumas linguagens, Java(Desktop e Web), PHP e Javascript <3.
-- 🔭&nbsp;&nbsp;Atualmente estou focado no frontend, utilizo algumas bibliotecas/frameworks como ReactJS, React Native e VueJS. Trabalho há dois anos na BR5 Benefícios onde desenvolvo e dou manutenção em alguns sistemas, sites e mobile utilizando as stacks ReactJs, VueJs e React Native.
+- 🔭&nbsp;&nbsp;Atualmente sou frontend web e mobile, utilizo algumas bibliotecas/frameworks como ReactJS, React Native e VueJS. Trabalho a 1 ano na Squads, grupo da holding Synapses S.A onde desenvolvo utilizando ReactJs e React Native.
 - 🎯&nbsp;&nbsp;No começo do ano de 2019, eu iniciei minha jornada como frontend, onde eu estou buscando me tornar especialista. Amo o que faço, gosto de novos desafios e sempre busco me atualizar.
 
 

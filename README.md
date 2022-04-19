@@ -21,7 +21,7 @@
 
 ## 🛠️&nbsp;&nbsp;Linguagens e Ferramentas
 
-- React <3
+- React
 - React Native
 - Redux
 - VueJS

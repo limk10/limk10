@@ -15,7 +15,7 @@
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="limk-10" height="30" width="40" /> <a href="https://www.linkedin.com/in/matheus-lopes-394240151/" target="_blank">Linkedin</a> </br>
 <img align="center" src="https://cdn.jsdelivr.net/npm/font-awesome-svg-icons@0.1.0/svg/envelope.svg" alt="limk-10" height="30" width="40" /> <a href="mailto: matheus_barbosa5@hotmail.com" target="_blank">matheus_barbosa5@hotmail.com</a> </br>
-<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/254/254409.svg" alt="limk-10" height="30" width="40" /> <a href="https://api.whatsapp.com/send?phone=5565992206152" target="_blank">+55 (65) 9 9220-6152</a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/font-awesome-svg-icons@0.1.0/svg/info.svg" alt="limk-10" height="30" width="40" /> <a href="https://api.whatsapp.com/send?phone=5565992206152" target="_blank">+55 (65) 9 9220-6152</a>
 </p>
 
 
